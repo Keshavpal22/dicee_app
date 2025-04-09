@@ -10,9 +10,13 @@ This app is a simple yet fun dice roller. When the user taps on the dice, it rol
 
 🎯 What I Learned
 ✅ How to create a basic Flutter UI
+
 ✅ Using functions in Dart
+
 ✅ Generating random numbers
+
 ✅ Adding and displaying images
+
 ✅ Building for both iOS and Android
 
 🖼️ Dice Images
@@ -30,9 +34,12 @@ To try it out on your own device:
 Clone this repo
 
 Run flutter pub get
+
 Use flutter run to launch on an emulator or physical device
 
 📚 Resources I Used
 Write your first Flutter app
+
 Flutter Cookbook
+
 Flutter Documentation
