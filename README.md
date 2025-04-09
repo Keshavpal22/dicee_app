@@ -1,4 +1,8 @@
 🎲 Dicee App
+
+![download](https://github.com/user-attachments/assets/c1741dfe-4b26-4025-a612-625687b461ae)
+
+
 Welcome to Dicee App, my very first Flutter application! 🚀
 
 📱 About the App
